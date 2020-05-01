@@ -23,33 +23,33 @@ searchByImage("<image_link>").then((res) => console.log(res));
 ```javascript
 [
   {
-    header: "Google's New Logo",
+    header: "Googles New Logo",
     link: "https://www.google.com/doodles/googles-new-logo",
   },
   {
-    header: "Google+ Google Logo, PNG, 1600x1067px, Google, Brand, G ...",
+    header: "Google Google Logo PNG 1600x1067px Google Brand G ",
     link: "https://favpng.com/png_view/google-google-google-logo-png/NHaPBUJP",
   },
   {
-    header: "Smarter attribution for everyone - The Keyword",
+    header: "Smarter attribution for everyone  The Keyword",
     link:
       "https://www.blog.google/products/marketingplatform/analytics/smarter-attribution-for-everyone-pmm",
   },
   {
-    header: "Google Logo Png 2017 - Clipart.Email",
+    header: "Google Logo Png 2017  ClipartEmail",
     link: "https://www.clipart.email/clipart/google-logo-png-2017-489768.html",
   },
   {
-    header: "Evolving the Google Identity - Library - Google Design",
+    header: "Evolving the Google Identity  Library  Google Design",
     link: "https://design.google/library/evolving-google-identity/",
   },
   {
-    header: "Join us live on May 23, 2017 as we announce the latest Ads ...",
+    header: "Join us live on May 23 2017 as we announce the latest Ads ",
     link:
       "https://www.blog.google/products/ads/join-us-live-on-may-23-2017-as-we_20",
   },
   {
-    header: "Join us live on May 23, 2017 as we announce the latest ...",
+    header: "Join us live on May 23 2017 as we announce the latest ",
     link:
       "https://www.blog.google/products/marketingplatform/analytics/join-us-live-on-may-23-2017-as-we",
   },

@@ -11,6 +11,9 @@ const searchByImage = async (url) => {
                     header: 'h3',
                     link: '@href',
                 })
+                .data((site) => {
+                    site.header = site.header.replace(/[^\w\s]/gi, '');
+                })
         ])
         .data((sites) => {
             results = sites;
