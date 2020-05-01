@@ -1,5 +1,5 @@
 {
-  "name": "image-search",
+  "name": "search-image",
   "version": "1.0.0",
   "description": "Search from an image",
   "main": "server.js",
