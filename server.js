@@ -8,8 +8,8 @@ const searchByImage = async (url) => {
             osmosis
                 .find('#rso>.g')
                 .set({
-                    url: '@href',
-                    title: 'h3'
+                    header: 'h3',
+                    link: '@href',
                 })
         ])
         .data((sites) => {
