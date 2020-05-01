@@ -1,0 +1,19 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "Search from an image",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search",
+    "reverse-search",
+    "google-image-search"
+  ],
+  "author": "nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.10"
+  }
+}
