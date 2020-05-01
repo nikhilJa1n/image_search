@@ -1,6 +1,6 @@
 {
   "name": "search-image",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Search from an image",
   "main": "server.js",
   "repository": {
